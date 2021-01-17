@@ -11,6 +11,8 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import javax.sql.DataSource;
 import java.util.Properties;
 
+//Commit
+
 @Configuration
 @EnableTransactionManagement
 public class HibernateConfig {
